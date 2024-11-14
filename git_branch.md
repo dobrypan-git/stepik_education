@@ -11,4 +11,4 @@
 *git add {имя файла}* добавить файл в индекс
 *git commit -m "Комментарий"* закоммитить изменения
 *git push*
-*gti push --set-upstream origin vetka* прикрепить к вышестоящей ветке
+*git push --set-upstream origin vetka* прикрепить к вышестоящей ветке
